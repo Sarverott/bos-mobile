@@ -1,3 +1,23 @@
+
+# Mobile app to work with [Blacksmith Organization System](https://github.com/Sarverott/blacksmith-organization-system)
+
+```
+      █▄▄ █░░ ▄▀█ █▀▀ █▄▀ █▀ █▀▄▀█ █ ▀█▀ █░█
+      █▄█ █▄▄ █▀█ █▄▄ █░█ ▄█ █░▀░█ █ ░█░ █▀█
+
+   █▀█ █▀█ █▀▀ ▄▀█ █▄░█ █ ▀█ ▄▀█ ▀█▀ █ █▀█ █▄░█
+   █▄█ █▀▄ █▄█ █▀█ █░▀█ █ █▄ █▀█ ░█░ █ █▄█ █░▀█
+
+             █▀ █▄█ █▀ ▀█▀ █▀▀ █▀▄▀█
+             ▄█ ░█░ ▄█ ░█░ ██▄ █░▀░█
+```
+> ###### [Sett Sarverott](https://github.com/Sarverott) @ 2019-2024
+---
+
+### automation of management in personal forest of projects  
+> Part of R tier project "ANUBIS",
+
+
 # Meteor + Vue3 + Vite
 
 This is a simple example of how to use Vue3 with Meteor.
